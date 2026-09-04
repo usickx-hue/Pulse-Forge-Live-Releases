@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "download_url": "https://github.com/usickx-hue/Pulse-Forge-Live-Releases/releases/download/v1.0.0/Pulse.Forge.Live.Setup.exe",
-  "sha256": "bfb4cdd0ea05d821ecfb5a0d35376593c2b0f7a02ef099675cf74b50839772c9",
-  "notes": "Pulse Forge Live 1.0.0",
+  "version": "1.0.1",
+  "download_url": "https://github.com/usickx-hue/Pulse-Forge-Live-Releases/releases/download/v1.0.1/Pulse.Forge.Live.Setup.exe",
+  "sha256": "ad37782140f5e985489563da466f23307d1ddbdc135e2418fd4a1dc9c06ca38a",
+  "notes": "Pulse Forge Live 1.0.1",
   "required": false
 }
