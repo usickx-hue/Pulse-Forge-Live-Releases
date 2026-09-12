@@ -1,7 +1,7 @@
 {
-  "version": "1.1.0",
-  "download_url": "https://github.com/usickx-hue/Pulse-Forge-Live-Releases/releases/download/v1.1.0/Pulse.Forge.Live.Setup.exe",
-  "sha256": "2de014d017a954055c46e736e8d908ad4907e0df3fe54d29f523722d23b17b02",
-  "notes": "Pulse Forge Live 1.1.0",
+  "version": "1.2.0",
+  "download_url": "https://github.com/usickx-hue/Pulse-Forge-Live-Releases/releases/download/v1.2.0/Pulse.Forge.Live.Setup.exe",
+  "sha256": "75872dcb2e4cbefaab7ea99bb4a392295bb58ea6b0eb8e07b5002f4c81a96b6c",
+  "notes": "New Calm style, vertical export profiles and portrait text margins.",
   "required": false
 }
