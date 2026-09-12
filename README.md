@@ -6,11 +6,17 @@ Pulse Forge Live is a Windows desktop application for creating ready-to-publish 
 
 ## Download
 
-### Pulse Forge Live 1.1.0
+### Pulse Forge Live 1.2.0
 
-**[Download Pulse Forge Live Setup.exe](https://github.com/usickx-hue/Pulse-Forge-Live-Releases/releases/download/v1.1.0/Pulse.Forge.Live.Setup.exe)**
+**[Download Pulse Forge Live Setup.exe](https://github.com/usickx-hue/Pulse-Forge-Live-Releases/releases/download/v1.2.0/Pulse.Forge.Live.Setup.exe)**
 
-Windows 10/11 • 64-bit • Latest version: 1.1.0
+Windows 10/11 • 64-bit • Latest version: 1.2.0
+
+## New in 1.2.0
+
+- Calm style and predictable style switching
+- Vertical 1080 x 1920 export profiles at 30/60 FPS
+- Portrait text margins and shortened long captions
 
 ## Features
 
@@ -65,7 +71,7 @@ Pulse Forge Live includes an update checker. New installers are verified with SH
 
 ## Latest Release
 
-[Pulse Forge Live 1.1.0](https://github.com/usickx-hue/Pulse-Forge-Live-Releases/releases/tag/v1.1.0)
+[Pulse Forge Live 1.2.0](https://github.com/usickx-hue/Pulse-Forge-Live-Releases/releases/tag/v1.2.0)
 
 ## Privacy
 
